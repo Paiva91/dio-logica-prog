@@ -1,5 +1,5 @@
 let nomeHeroi = "Aatrox";
-let xpHeroi = 2099;
+let xpHeroi = 9999;
 
 let nivel;
 
